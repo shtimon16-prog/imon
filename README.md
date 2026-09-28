@@ -38,22 +38,21 @@ on refresh.
    ```
 4. Open the URL shown in the terminal (usually `http://localhost:5173`)
 
+
+
 ## Screenshots
 
-<!-- Add 2-3 screenshots of your running app below. 
-     Example markdown syntax: ![Task list view](screenshots/task-list.png) -->
+**Main view (All tasks):**
 
-**Main view / task list:**
+![Main view](screenshots/main.png)
 
-*(screenshot here)*
+**Active filter:**
 
-**Adding a task:**
+![Active filter](screenshots/active.png)
 
-*(screenshot here)*
+**Completed filter:**
 
-**Filtering tasks:**
-
-*(screenshot here)*
+![Completed filter](screenshots/completed.png)
 
 ## Known Limitations
 
