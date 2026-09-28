@@ -25,8 +25,8 @@ on refresh.
 
 1. Clone this repository
    ```
-   git clone <your-repo-url>
-   cd todo-app
+   git clone https://github.com/shtimon16-prog/imon.git
+   cd imon
    ```
 2. Install dependencies
    ```
